@@ -1,0 +1,35 @@
+
+.cabecalho {
+    display: flex;
+    justify-content:
+    space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.logo div {
+    text-decoration: rgb(23, 233, 4);
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    gap: 25px
+
+}
+
+.menu a {
+    color:blue;
+    text-decoration: underline;
+    font-size: 18px;
+
+}
+
+main {
+padding: 20px;
+
+}
+
